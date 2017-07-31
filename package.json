@@ -1,0 +1,33 @@
+{
+  "name": "element-ui-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contribu/element-ui-sample.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/contribu/element-ui-sample/issues"
+  },
+  "homepage": "https://github.com/contribu/element-ui-sample#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "element-ui": "^1.4.1",
+    "fuse-box": "^2.2.1",
+    "node-sass": "^4.5.3",
+    "postcss": "^6.0.8",
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.2",
+    "uglify-js": "^3.0.26",
+    "vue": "^2.4.2",
+    "vue-class-component": "^5.0.2",
+    "vue-template-compiler": "^2.4.2",
+    "vue-template-es2015-compiler": "^1.5.3"
+  }
+}
