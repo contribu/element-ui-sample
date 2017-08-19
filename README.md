@@ -11,7 +11,3 @@ sample app using following library
 ```
 node fuse.js
 ```
-
-# TODO
-
-- tslint
